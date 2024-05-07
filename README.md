@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackhutson
-- 👀 I’m interested in web architecture, microservices, and emerging web technologies
+- 👀 I’m interested in web architecture, microservices, and emerging technologies
 - 🌱 I’m currently learning Go
 - 📫 How to reach me @_jackhutson on Twitter
 
